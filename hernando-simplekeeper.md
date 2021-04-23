@@ -1,0 +1,3 @@
+::: ddtitle Hernando Simplekeeper
+
+Hernando Simplekeeper is the oldest living human recorded by the Human Empire. He managed to elongate his lifespan through the use of unknown magic that slowed his aging process so significantly that he had barely gotten older at the end of his lifespan. After having lived for a little more than 1543 years, Hernando was decapitated by the warrior Regdor Lyssman, effectively ending his life.

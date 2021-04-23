@@ -1,0 +1,98 @@
+[
+    {
+        "player_class": "Barbarian",
+        "name": "Path of the Berserker",
+        "source": "SRD",
+        "page": "subclass-path-of-the-berserker.md"
+    },
+    {
+        "player_class": "Barbarian",
+        "name": "Path of the Boglord",
+        "source": "Homebrew",
+        "page": "subclass-path-of-the-boglord.md"
+    },
+    {
+        "player_class": "Bard",
+        "name": "College of Lore",
+        "source": "SRD",
+        "page": "subclass-college-of-lore.md"
+    },
+    {
+        "player_class": "Cleric",
+        "name": "Life Domain",
+        "source": "SRD",
+        "page": "subclass-domain-life.md"
+    },
+    {
+        "player_class": "Druid",
+        "name": "Circle of the Land",
+        "source": "SRD",
+        "page": "subclass-circle-of-the-land.md"
+    },
+    {
+        "player_class": "Fighter",
+        "name": "Champion",
+        "source": "SRD",
+        "page": "subclass-fighter-champion.md"
+    },
+    {
+        "player_class": "Fighter",
+        "name": "Exemplar",
+        "source": "Homebrew",
+        "page": "subclass-fighter-exemplar.md"
+    },
+    {
+        "player_class": "Monk",
+        "name": "Way of the Open Hand",
+        "source": "SRD",
+        "page": "subclass-way-of-the-open-hand.md"
+    },
+    {
+        "player_class": "Paladin",
+        "name": "Oath of Devotion",
+        "source": "SRD",
+        "page": "subclass-oath-of-devotion.md"
+    },
+    {
+        "player_class": "Ranger",
+        "name": "Hunter Conclave",
+        "source": "SRD",
+        "page": "subclass-conclave-hunter.md"
+    },
+    {
+        "player_class": "Rogue",
+        "name": "Thief",
+        "source": "SRD",
+        "page": "subclass-rogue-thief.md"
+    },
+    {
+        "player_class": "Sorcerer",
+        "name": "Draconic Bloodline",
+        "source": "SRD",
+        "page": "subclass-sorcerer-draconic-bloodline.md"
+    },
+    {
+        "player_class": "Sorcerer",
+        "name": "Serpent Soul",
+        "source": "Homebrew",
+        "page": "subclass-sorcerer-serpent-soul.md"
+    },
+    {
+        "player_class": "Warlock",
+        "name": "Fiend",
+        "source": "SRD",
+        "page": "subclass-patron-fiend.md"
+    },
+    {
+        "player_class": "Wizard",
+        "name": "School of Entropy",
+        "source": "Homebrew",
+        "page": "subclass-school-of-entropy.md"
+    },
+    {
+        "player_class": "Wizard",
+        "name": "School of Evocation",
+        "source": "SRD",
+        "page": "subclass-school-of-evocation.md"
+    }
+]
